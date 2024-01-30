@@ -23,6 +23,9 @@ Montage is a scientific workflow for generating astronomical images mosaic. By i
 ### Dataset:
 - M8, M15 and M17 images obtained from [NASA/IPAC Infrared Science Archive](https://archive.ph/AWa3I#selection-135.0-135.33)
 
+### Cloud Computing Platform:
+- Amazon Web Services
+
 ### Methodology:
 - [HTCondor Configuration and Setup](https://github.com/yjoer/htcondor-cluster)
 - [Montage Workflow](https://github.com/yjoer/montage)
